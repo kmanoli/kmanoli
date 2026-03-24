@@ -7,4 +7,4 @@
 
 🤖 I also explore how humans perceive and socially integrate digital minds and AI systems. → You can find more on this work on my OSF: https://osf.io/cqk4u/
 
-📫 How to reach me: manoli@cbs.mpg.de / k.manoli@fz-juelich.de / katerina@sentienceinstitute.org
+📫 How to reach me: manoli@cbs.mpg.de / katerina@sentienceinstitute.org
