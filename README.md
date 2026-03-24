@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Katerina 
 <i>(you might also see me as Aikaterina on academic papers)</i>
 
-🔭 I’m a PhD candidate in neuroscience at the Max Planck Institute for Human Cognitive and Brain Sciences (affiliated with Research Center Jülich INM-7: Brain and Behavior), and a researcher at the Sentience Institute.
+🔭 I’m a PhD candidate in neuroscience at the Max Planck Institute for Human Cognitive and Brain Sciences (also affiliated with Research Center Jülich INM-7: Brain and Behavior), and a researcher at the Sentience Institute.
 
 🧠 My research focuses on the development of (social) cognition in the human brain, with particular interest in the cerebellum and a growing interest in the primate brain. 🐒
 
