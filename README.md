@@ -1,4 +1,4 @@
-👋 Hi, I'm Katerina (you might also see me as Aikaterina on academic papers)
+👋 Hi, I'm Katerina (you might also see me as Aikaterina on academic papers).
 
 🔭 I’m a PhD candidate in neuroscience at the Max Planck Institute for Human Cognitive and Brain Sciences (also affiliated with Research Center Jülich INM-7: Brain and Behavior), and a researcher at the Sentience Institute.
 
